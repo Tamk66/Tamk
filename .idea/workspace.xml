@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f59f7614-a3a3-453f-944e-4925776dc718" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/index1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/index2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/index3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/index4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/index5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/main1/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/main1/School.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/main1/Student.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/main1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/main1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +29,7 @@
           <entry key="js" value="7" />
           <entry key="json" value="3" />
           <entry key="md" value="1" />
-          <entry key="php" value="9" />
+          <entry key="php" value="10" />
           <entry key="png" value="1" />
           <entry key="ts" value="1" />
           <entry key="vue" value="10" />
@@ -54,7 +42,7 @@
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="7" />
           <entry key="Markdown" value="1" />
-          <entry key="PHP" value="9" />
+          <entry key="PHP" value="10" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="TypeScript" value="1" />
           <entry key="Vue.js" value="10" />
@@ -62,7 +50,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="155" />
+          <entry key="php" value="158" />
           <entry key="txt" value="4" />
           <entry key="vue" value="6" />
         </counts>
@@ -70,7 +58,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="20" />
-          <entry key="PHP" value="135" />
+          <entry key="PHP" value="138" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Vue.js" value="6" />
         </counts>
@@ -84,20 +72,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -133,8 +112,8 @@
         <option value="$PROJECT_DIR$/vue2/test3/src/components/HelloWorld.vue" />
         <option value="$PROJECT_DIR$/vue2/test3/src/App.vue" />
         <option value="$PROJECT_DIR$/vue2/test3/src/main.js" />
-        <option value="$PROJECT_DIR$/Index.php" />
         <option value="$PROJECT_DIR$/index2.php" />
+        <option value="$PROJECT_DIR$/Index.php" />
       </list>
     </option>
   </component>
@@ -155,7 +134,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -219,17 +198,18 @@
       <workItem from="1663129978795" duration="2729000" />
       <workItem from="1663154555322" duration="8000" />
       <workItem from="1663204327663" duration="11617000" />
-      <workItem from="1663233830646" duration="634000" />
+      <workItem from="1663233830646" duration="644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14988000" />
+    <option name="totallyTimeSpent" value="14998000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21709532" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21709532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -242,7 +222,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21182266" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21182266" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -395,17 +375,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
